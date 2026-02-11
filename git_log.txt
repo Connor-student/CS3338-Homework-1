@@ -1,8 +1,8 @@
-commit 36c86bac45225f2b53c6591729ec566171f0536d
-Author: JValenzuela1 <Jakeval64@gmail.com>
-Date:   Wed Feb 5 22:24:59 2025 -0800
+commit 3289fa52247616de17ba9d2d7aa99f01ec254580
+Author: Connor-student <cmoy3@calstatela.edu>
+Date:   Tue Feb 10 19:33:16 2026 -0800
 
-    Setup index for groupmate
+    Add git log and repository location
 
 commit f37cdce66bf3ee5c7835db43eb69434768c73a72
 Author: JValenzuela1 <Jakeval64@gmail.com>
